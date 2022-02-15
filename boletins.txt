@@ -3,3 +3,4 @@ BOLETIM ESCOLAR
 Aline  9.0
 Lucas  8.5
 Layane 7.5
+Leonardo 10.0
