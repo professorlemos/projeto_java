@@ -1,5 +1,6 @@
 
-- Protuguês
+- Português
 - Matemática
 - Informática
 - Geografia
+- JAVA
